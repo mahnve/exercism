@@ -1,0 +1,8 @@
+venv/
+*.pyc
+.gradle/
+/java/hello-world/.idea/misc.xml
+.idea/
+.meghanada/
+build/
+*.iml
